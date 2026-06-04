@@ -9,7 +9,7 @@
 using namespace std;
 enum CommandType{
         A_COMMAND =0,
-        C_COMMAND =1,
+        C_COMMAND ,
         L_COMMAND =2
         };
 class Parser {
